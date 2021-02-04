@@ -1,0 +1,12 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "learning module puppeter",
+  "main": "index.js",
+  "repository": "https://github.com/divyanshuParihar265/puppeter.git",
+  "author": "Divyanshu Parihar",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^7.0.0"
+  }
+}
